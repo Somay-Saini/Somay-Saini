@@ -61,7 +61,7 @@
 > If your business has a repetitive task eating time, I can probably automate it in days.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somay-saini-3907b9390?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://somay-saini597.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://somay-saini.github.io/somay-saini597.github.io/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~01b7f8f13a67ab1343)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somay19021915@email.com)
 
